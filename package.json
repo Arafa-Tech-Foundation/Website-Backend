@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fastify": "^4.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.2"
+  }
+}
